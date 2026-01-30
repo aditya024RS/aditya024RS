@@ -20,8 +20,10 @@ I am a passionate Full-Stack Developer with a strong foundation in Java and the 
 
 ### 📈 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya024RS&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya024RS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya024RS&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya024RS&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
 
 ---
 
@@ -31,8 +33,7 @@ I am a passionate Full-Stack Developer with a strong foundation in Java and the 
   <a href="https://www.linkedin.com/in/aditya-raj-singh-1h2a3r4s5h" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br>
-  <a href="mailto:s.adityaraj2204@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:s.adityaraj2204@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
