@@ -31,6 +31,7 @@ I am a passionate Full-Stack Developer with a strong foundation in Java and the 
   <a href="https://www.linkedin.com/in/aditya-raj-singh-1h2a3r4s5h" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
   <a href="mailto:s.adityaraj2204@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
