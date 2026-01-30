@@ -55,4 +55,6 @@ I am a passionate Full-Stack Developer with a strong foundation in Java and the 
 
 ### 📫 Connect with Me
 
-- [LinkedIn](linkedin.com/in/aditya-raj-singh-1h2a3r4s5h) - [Email](s.adityaraj2204@gmail.com) ```
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aditya-raj-singh-1h2a3r4s5h)
+
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.adityaraj2204@gmail.com)
